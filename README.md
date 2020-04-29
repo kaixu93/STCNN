@@ -15,7 +15,7 @@ Adjust the correct path in mypath.py
 python train_JointModel.py
 ```
 ## Onling training and testing
-
+The pretrained joint model can download from [JointModel](https://pan.baidu.com/s/18DQ3jvYKe1NllsJjY3F1Qg), the password is:7vep 
 ```bash
 python davis_LucidDream.py
 ```
